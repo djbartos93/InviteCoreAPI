@@ -1,0 +1,5 @@
+name: InviteCore
+main: com.omniscientmc.plugin.CorePlugin
+version: 0.0.1-SNAPSHOT
+api-version: 1.13
+commands: 
